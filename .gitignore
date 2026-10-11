@@ -13,5 +13,13 @@ backups/
 
 recordings/
 
+# Local artifact build and validation files.
+.codex-build/
+.codex-finalizer/
+
+# Maintainer's local financial working files.
+docs/Uhishange_finantsplaan_2026-10-10.xlsx
+docs/~$Uhishange_finantsplaan_2026-10-10.xlsx
+
 # Original event poster contains participant names; retain locally.
 /1000012998.jpg

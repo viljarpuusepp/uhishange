@@ -10,16 +10,11 @@ Tasuta töö
 Pole aega - kiired otsused
 Läheb kalliks 
 
-Slide 2 
+Slide 2-6
+Protsessi viis ekraanipilti
 
-Headline: Kuid abi võib olla kõrvalmajas
-	Hanke esimene screenshot
-Slide 3
-	Hanke teine screenshot
-Slide 4 
-Hanke kolmas screenshot
-
-Slide 5
+Slide 7
 Headline: Eestis on üle 13000 korteriühistu, kus on üle 10 korteri majas
 
-Slide 6
+Slide 8
+Fiantsplaan
